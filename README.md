@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is an open-source recipes api. The original purpose was to work with website called "CookCycle" for managing the server-side functionality (recipes, ingredients, users' favorites and more).
+This project is an open-source recipes api. The original purpose was to work with a website called "CookCycle" for managing the server-side functionality (recipes, ingredients, users' favorites and more).
 
 For a better code-exploring experience I added "Doxygen" documentation, simply clone the project to your PC and open the index.html file at the path:
 
